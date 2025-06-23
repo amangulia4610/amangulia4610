@@ -3,6 +3,7 @@
 ### 💻 Full Stack Web Developer | UI/UX Enthusiast | GSAP Animator
 
 Welcome to my GitHub! I'm a passionate developer with a flair for creating responsive, high-performance websites that blend **functionality with stunning visuals**.
+<details>
 
 Currently based in Toronto 🇨🇦, I'm pursuing a **Postgraduate Diploma in Full Stack Software Development** at Lambton College while working on real-world freelance and agency projects.
 
@@ -53,3 +54,4 @@ US-based software development company’s site built with GSAP animations, Brevo
 > “Code is not just syntax. It’s design, performance, and experience — all rolled into one.”
 
 Thanks for stopping by! 🙌
+</details>
