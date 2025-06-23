@@ -29,8 +29,8 @@ Full agency website with scroll-triggered GSAP animations, Locomotive Scroll, an
 ### [🧠 WizKidz Club](https://www.wizkidzclub.com)
 LMS + eCommerce site for a US-based kids coding club with cart system, course pages, and custom admin panel.
 
-### [🛍️ Jodsy](https://www.amangulia.com/jodsy)
-E-commerce platform for a luxury fashion brand with custom payment, marketing, and logistics integrations.
+### [💻  Nerdslane](https://github.com/amangulia4610/Nerdslane)
+US-based software development company’s site built with GSAP animations, Brevo integration, and responsive mobile design.
 
 ---
 
@@ -47,15 +47,6 @@ E-commerce platform for a luxury fashion brand with custom payment, marketing, a
 
 **Other:**  
 `REST APIs`, `Agile`, `UI/UX Design`, `Performance Optimization`, `SEO`, `Digital Marketing`
-
----
-
-## 📫 Connect with Me
-
-- 🌐 Website: [amangulia.com](https://www.amangulia.com)  
-- 💼 LinkedIn: [linkedin.com/in/aman-gulia-4610](https://www.linkedin.com/in/aman-gulia-4610/)  
-- 📧 Email: [amangulia9053@gmail.com](mailto:amangulia9053@gmail.com)  
-- 🧑‍💻 GitHub: [github.com/amangulia4610](https://github.com/amangulia4610)
 
 ---
 
