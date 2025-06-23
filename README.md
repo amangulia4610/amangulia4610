@@ -32,9 +32,6 @@ LMS + eCommerce site for a US-based kids coding club with cart system, course pa
 ### [🛍️ Jodsy](https://www.amangulia.com/jodsy)
 E-commerce platform for a luxury fashion brand with custom payment, marketing, and logistics integrations.
 
-### [🎟️ Ticket Station](https://ticketstation.1websol.com/)
-Full-stack event management platform with payment processing and Zoom virtual events.
-
 ---
 
 ## 🛠 Tech Stack
@@ -50,19 +47,6 @@ Full-stack event management platform with payment processing and Zoom virtual ev
 
 **Other:**  
 `REST APIs`, `Agile`, `UI/UX Design`, `Performance Optimization`, `SEO`, `Digital Marketing`
-
----
-
-## 📚 Education
-
-🎓 **Postgraduate Diploma** in Full Stack Software Development  
-_Lambton College, Toronto | 2024 – 2025_
-
-🎓 **Master of Computer Applications**  
-_Chandigarh University | 2022 – 2024_
-
-🎓 **Bachelor of Computer Applications**  
-_SRM University | 2019 – 2022_
 
 ---
 
