@@ -7,8 +7,7 @@ Welcome to my GitHub! I'm a passionate developer with a flair for creating respo
 Currently based in Toronto 🇨🇦, I'm pursuing a **Postgraduate Diploma in Full Stack Software Development** at Lambton College while working on real-world freelance and agency projects.
 <details>
   <summary>📖 Click to read more about me</summary>
----
-
+  
 ## 🚀 What I Do
 
 - 🔧 **Build scalable, modern web apps** using the MERN stack
