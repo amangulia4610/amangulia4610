@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a passionate developer with a flair for creating responsive, high-performance websites that blend **functionality with stunning visuals**.
 <details>
-
+  <summary>📖 Click to read more about me</summary>
 Currently based in Toronto 🇨🇦, I'm pursuing a **Postgraduate Diploma in Full Stack Software Development** at Lambton College while working on real-world freelance and agency projects.
 
 ---
