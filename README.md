@@ -20,11 +20,11 @@ Currently based in Toronto 🇨🇦, I'm pursuing a **Postgraduate Diploma in Fu
 
 ## 🧩 Featured Projects
 
-### [🌐 1 Web Solutions](https://www.1websol.com)
-Full agency website with scroll-triggered GSAP animations, Locomotive Scroll, and 99/100 Lighthouse performance.
-
 ### [🎯 20 Degrees](https://www.20deg.com)
 California-based wellness startup site with Stripe integration, webpack optimization, and GSAP-powered effects.
+
+### [🌐 1 Web Solutions]([https://www.1websol.com](https://github.com/amangulia4610/1Websolutions))
+Full agency website with scroll-triggered GSAP animations, Locomotive Scroll, and 99/100 Lighthouse performance.
 
 ### [🧠 WizKidz Club](https://www.wizkidzclub.com)
 LMS + eCommerce site for a US-based kids coding club with cart system, course pages, and custom admin panel.
