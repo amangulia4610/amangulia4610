@@ -18,7 +18,7 @@ Currently based in Toronto 🇨🇦, I'm pursuing a **Postgraduate Diploma in Fu
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Client Projects
 
 ### [🎯 20 Degrees](https://www.20deg.com)
 California-based wellness startup site with Stripe integration, webpack optimization, and GSAP-powered effects.
